@@ -18,25 +18,39 @@ Device Usage Insights → See which mobile brands dominate PhonePe usage.
 Regional Highs & Lows → Spot the top and bottom performing areas.
 Insurance Transactions → Track patterns in digital insurance purchases.
 📦 What’s Included
+
 📒 Jupyter Notebook → For deep-dive data exploration and analysis.
+
 📈 Streamlit Dashboard → Interactive and easy to navigate.
+
 📊 Plotly Visualizations → Clear, dynamic charts to present insights.
-🛠 Tech Stack
+
+🛠 Tech Stack:
+
 Python
+
 Pandas – Data wrangling and analysis
+
 Plotly – Interactive visualizations
+
 Streamlit – Live dashboard
+
 Jupyter Notebook – Exploratory analysis
+
 🚀 Why This Project Matters
 This was my first step in applying data analytics skills to a real-world dataset.
 It taught me:
 
 How to work with large, structured datasets
+
 How to build and deploy an interactive dashboard
+
 How to present data so it tells a meaningful story
 
 👤 Author
 
 #Bilk Edison Xavier.
+
 📧edisonxavier44@gmail.com
+
 💼www.linkedin.com/in/bilk-edison-xavier-1a9767344
